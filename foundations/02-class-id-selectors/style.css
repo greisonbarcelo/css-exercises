@@ -1,0 +1,15 @@
+.para{
+    background-color: lightpink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+#divaTwo{
+    font-size: 36px;
+}
+.para.three{
+    font-size: 24px;
+}
+#divaFour{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: 900;
+}

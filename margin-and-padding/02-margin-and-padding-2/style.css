@@ -14,21 +14,24 @@ body {
 
 .content {
   background: #e3f4ff;
-  padding: 8px;
+  padding: 16px 8px;
 }
 
 .button-container {
   background: #e3f4ff;
-  padding: 24px;
+  padding: 8px;
+  text-align: center;
 }
 
 button {
   background: white;
   border: 1px solid #eee;
+  padding: 8px 24px;
   display: block;
+  margin: 0 auto;
 }
 
-div{
-  margin: 12px auto;
+div, .title{
+  margin: 8px auto;
   padding: 8px;
 }
